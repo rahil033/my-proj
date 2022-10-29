@@ -1,0 +1,4 @@
+#Ignore file name README.txt
+README.txt
+#Ignore the java files
+*.java
